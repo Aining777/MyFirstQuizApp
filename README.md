@@ -9,10 +9,12 @@ DailyQuizApp 是一个学习工具，每天提供 10 道与安全领域相关的
 - **简洁界面**: 简单直观的用户界面，专注于答题体验。
 
 ## 应用截图
+<img width="298" height="694" alt="image" src="https://github.com/user-attachments/assets/f1c4b1dc-001b-4db9-adef-7f721db06e30" />
+<img width="298" height="693" alt="image" src="https://github.com/user-attachments/assets/6997d4a9-f1e2-4355-8f49-edc6a54e1f42" />
 
-*（请在此处添加应用截图）*
-![660f33a58f010840020352a9fd30b108](https://github.com/user-attachments/assets/8075fb76-5a49-466d-911f-ed2b7a7e3169)
-![5393b915037fcad9783b87f3ba009d75](https://github.com/user-attachments/assets/73b511bb-e4e8-49bf-9e76-a3ac98089a1b)
+
+
+
 
 
 
