@@ -32,5 +32,9 @@ DailyQuizApp/
 ├── build.gradle.kts                          # 项目根目录的构建脚本
 └── settings.gradle.kts                       # Gradle 设置
 ```
+## 项目更新
+2025/8/3 v1.0.1
+增加题目分类菜单，修复每日不刷新题目bug。
 
+<img width="298" height="694" alt="image" src="https://github.com/user-attachments/assets/a267a63f-16b6-44a2-8f9b-137a3c033e78" />
 
